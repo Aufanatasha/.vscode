@@ -1,0 +1,30 @@
++<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> <!--character set-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animal Welfare</title>
+    <style>
+        img {
+            width: 100px;
+            border-radius: 50px;
+        }
+    </style>
+    
+</head>
+<body>
+    <h1>Heading 1</h1> 
+    <h2>Turtle</h2>
+    <p>Turtle lives in the ocean</p>
+    <h2>Dolphin</h2>
+    <p>Dolphin is turtle's neighbour</p>
+    <h2>Cat</h2>
+    <p>This is cuteeeeeee cat</p>
+    <img src="images/cat.jpg">
+    
+    <p>Welcome to Animal Welfare website</p>
+    <a href="about.html">About Welfare</a>
+    <p>Firdaus 2023 &copy; </p>
+</body>
+</html>
